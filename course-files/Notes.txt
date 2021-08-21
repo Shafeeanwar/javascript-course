@@ -1,0 +1,1 @@
+Multiple arguments can be passed in addEventListener function such as "click","mousemove"
